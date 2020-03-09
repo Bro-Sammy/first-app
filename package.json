@@ -1,0 +1,14 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "My first Nodejs Application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Samuel Amoah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "github:expressjs/express"
+  }
+}
